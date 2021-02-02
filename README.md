@@ -1,3 +1,7 @@
+Moved to [https://github.com/mrhenry/web-tests](https://github.com/mrhenry/web-tests).
+
+----------------
+
 # Web Tests
 
 > Tests for a web eco system.
